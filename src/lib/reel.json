@@ -1,0 +1,21 @@
+{
+  "strip": [
+    "cherry", "cherry", "cherry", "cherry", "cherry", "cherry", "cherry",
+    "lemon", "lemon", "lemon", "lemon", "lemon",
+    "plum", "plum", "plum",
+    "bell", "bell",
+    "bar",
+    "seven",
+    "star"
+  ],
+  "three": {
+    "cherry": 9,
+    "lemon": 12,
+    "plum": 20,
+    "bell": 40,
+    "bar": 80,
+    "seven": 120,
+    "star": 200
+  },
+  "cherryPair": 3
+}

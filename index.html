@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#e6ebf1" />
+    <title>Merrin</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600&family=Barlow:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      (function () {
+        try {
+          var stored = localStorage.getItem('merrin.theme');
+          var dark = stored ? stored === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+          var hue = localStorage.getItem('merrin.hue') || '204';
+          var storedLang = localStorage.getItem('merrin.lang');
+          var lang = storedLang === 'de' || storedLang === 'ar' ? storedLang : 'en';
+          var root = document.documentElement;
+          root.dataset.theme = dark ? 'dark' : 'light';
+          root.lang = lang;
+          root.dir = lang === 'ar' ? 'rtl' : 'ltr';
+          root.style.colorScheme = dark ? 'dark' : 'light';
+          root.style.setProperty('--hue', hue);
+          var meta = document.querySelector('meta[name="theme-color"]');
+          if (meta) meta.setAttribute('content', dark ? '#0e141b' : '#e6ebf1');
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+      (function () {
+        var mod = document.querySelector('script[type="module"]');
+        if (!mod || !('serviceWorker' in navigator)) return;
+        var src = mod.getAttribute('src') || '';
+        if (src.indexOf('/src/') === 0) return;
+        navigator.serviceWorker.register('/sw.js');
+      })();
+    </script>
+  </body>
+</html>

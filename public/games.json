@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "glass-orchard",
+    "title": "Glass Orchard",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "slots",
+    "tags": [
+      "new",
+      "hot",
+      "ways"
+    ],
+    "rtp": 96.98,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 100,
+    "releasedAt": "2026-10-18",
+    "playable": true
+  },
+  {
+    "id": "night-ferry",
+    "title": "Night Ferry",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "slots",
+    "tags": [
+      "new"
+    ],
+    "rtp": 94.63,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 63,
+    "releasedAt": "2026-10-14",
+    "playable": false
+  },
+  {
+    "id": "copper-saints",
+    "title": "Copper Saints",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "slots",
+    "tags": [
+      "new"
+    ],
+    "rtp": 95.16,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 76,
+    "releasedAt": "2026-10-10",
+    "playable": false
+  },
+  {
+    "id": "paper-tigers",
+    "title": "Paper Tigers",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "slots",
+    "tags": [
+      "new",
+      "classic"
+    ],
+    "rtp": 95.69,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 89,
+    "releasedAt": "2026-10-06",
+    "playable": false
+  },
+  {
+    "id": "salt-cathedral",
+    "title": "Salt Cathedral",
+    "providerId": "kite",
+    "provider": "Kite & Co",
+    "category": "slots",
+    "tags": [
+      "new"
+    ],
+    "rtp": 96.22,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 54,
+    "releasedAt": "2026-10-02",
+    "playable": false
+  },
+  {
+    "id": "wren-s-wheel",
+    "title": "Wren's Wheel",
+    "providerId": "sable",
+    "provider": "Sable",
+    "category": "slots",
+    "tags": [
+      "new",
+      "ways"
+    ],
+    "rtp": 96.75,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 67,
+    "releasedAt": "2026-09-28",
+    "playable": false
+  },
+  {
+    "id": "hotel-imperial",
+    "title": "Hotel Imperial",
+    "providerId": "northwind",
+    "provider": "Northwind",
+    "category": "slots",
+    "tags": [
+      "new",
+      "hot"
+    ],
+    "rtp": 97.28,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 98,
+    "releasedAt": "2026-09-24",
+    "playable": false
+  },
+  {
+    "id": "red-meridian",
+    "title": "Red Meridian",
+    "providerId": "redlamp",
+    "provider": "Redlamp",
+    "category": "slots",
+    "tags": [
+      "new"
+    ],
+    "rtp": 94.41,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 93,
+    "releasedAt": "2026-09-20",
+    "playable": false
+  },
+  {
+    "id": "low-lamp",
+    "title": "Low Lamp",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "slots",
+    "tags": [
+      "new"
+    ],
+    "rtp": 94.94,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 36,
+    "releasedAt": "2026-09-16",
+    "playable": false
+  },
+  {
+    "id": "kindling",
+    "title": "Kindling",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "slots",
+    "tags": [
+      "new",
+      "jackpot"
+    ],
+    "rtp": 95.47,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 49,
+    "releasedAt": "2026-09-12",
+    "playable": false
+  },
+  {
+    "id": "the-quiet-multiplier",
+    "title": "The Quiet Multiplier",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "slots",
+    "tags": [
+      "new",
+      "ways"
+    ],
+    "rtp": 96,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 62,
+    "releasedAt": "2026-09-08",
+    "playable": false
+  },
+  {
+    "id": "orchard-thief",
+    "title": "Orchard Thief",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "slots",
+    "tags": [
+      "new",
+      "classic"
+    ],
+    "rtp": 96.53,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 75,
+    "releasedAt": "2026-09-04",
+    "playable": false
+  },
+  {
+    "id": "brass-pelican",
+    "title": "Brass Pelican",
+    "providerId": "kite",
+    "provider": "Kite & Co",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 97.06,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 58,
+    "releasedAt": "2026-08-31",
+    "playable": false
+  },
+  {
+    "id": "eleven-windows",
+    "title": "Eleven Windows",
+    "providerId": "sable",
+    "provider": "Sable",
+    "category": "slots",
+    "tags": [
+      "high-limit"
+    ],
+    "rtp": 94.19,
+    "minBet": 5,
+    "maxBet": 500,
+    "trend": 53,
+    "releasedAt": "2026-08-27",
+    "playable": false
+  },
+  {
+    "id": "soft-currency",
+    "title": "Soft Currency",
+    "providerId": "northwind",
+    "provider": "Northwind",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 94.72,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 66,
+    "releasedAt": "2026-08-23",
+    "playable": false
+  },
+  {
+    "id": "milk-teeth",
+    "title": "Milk Teeth",
+    "providerId": "redlamp",
+    "provider": "Redlamp",
+    "category": "slots",
+    "tags": [
+      "ways"
+    ],
+    "rtp": 95.25,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 31,
+    "releasedAt": "2026-08-19",
+    "playable": false
+  },
+  {
+    "id": "black-shore",
+    "title": "Black Shore",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 95.78,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 44,
+    "releasedAt": "2026-08-15",
+    "playable": false
+  },
+  {
+    "id": "gilded-mute",
+    "title": "Gilded Mute",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 96.31,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 75,
+    "releasedAt": "2026-08-11",
+    "playable": false
+  },
+  {
+    "id": "ferry-lights",
+    "title": "Ferry Lights",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "slots",
+    "tags": [
+      "hot",
+      "jackpot"
+    ],
+    "rtp": 96.84,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 88,
+    "releasedAt": "2026-08-07",
+    "playable": false
+  },
+  {
+    "id": "second-house",
+    "title": "Second House",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 97.37,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 35,
+    "releasedAt": "2026-08-03",
+    "playable": false
+  },
+  {
+    "id": "yellow-archive",
+    "title": "Yellow Archive",
+    "providerId": "kite",
+    "provider": "Kite & Co",
+    "category": "slots",
+    "tags": [
+      "ways"
+    ],
+    "rtp": 94.5,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 48,
+    "releasedAt": "2026-07-30",
+    "playable": false
+  },
+  {
+    "id": "marble-room",
+    "title": "Marble Room",
+    "providerId": "sable",
+    "provider": "Sable",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 95.03,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 79,
+    "releasedAt": "2026-07-26",
+    "playable": false
+  },
+  {
+    "id": "crowns-of-salt",
+    "title": "Crowns of Salt",
+    "providerId": "northwind",
+    "provider": "Northwind",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 95.56,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 74,
+    "releasedAt": "2026-07-22",
+    "playable": false
+  },
+  {
+    "id": "tiny-meteor",
+    "title": "Tiny Meteor",
+    "providerId": "redlamp",
+    "provider": "Redlamp",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 96.09,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 57,
+    "releasedAt": "2026-07-18",
+    "playable": false
+  },
+  {
+    "id": "velour",
+    "title": "Velour",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 96.62,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 70,
+    "releasedAt": "2026-07-14",
+    "playable": false
+  },
+  {
+    "id": "paper-crown",
+    "title": "Paper Crown",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "slots",
+    "tags": [
+      "ways"
+    ],
+    "rtp": 97.15,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 65,
+    "releasedAt": "2026-07-10",
+    "playable": false
+  },
+  {
+    "id": "night-shift",
+    "title": "Night Shift",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "slots",
+    "tags": [
+      "high-limit"
+    ],
+    "rtp": 94.28,
+    "minBet": 5,
+    "maxBet": 500,
+    "trend": 30,
+    "releasedAt": "2026-07-06",
+    "playable": false
+  },
+  {
+    "id": "glassworks",
+    "title": "Glassworks",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "slots",
+    "tags": [
+      "jackpot",
+      "classic"
+    ],
+    "rtp": 94.81,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 43,
+    "releasedAt": "2026-07-02",
+    "playable": false
+  },
+  {
+    "id": "the-last-chair",
+    "title": "The Last Chair",
+    "providerId": "kite",
+    "provider": "Kite & Co",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 95.34,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 56,
+    "releasedAt": "2026-06-28",
+    "playable": false
+  },
+  {
+    "id": "warm-static",
+    "title": "Warm Static",
+    "providerId": "sable",
+    "provider": "Sable",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 95.87,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 87,
+    "releasedAt": "2026-06-24",
+    "playable": false
+  },
+  {
+    "id": "copper-weather",
+    "title": "Copper Weather",
+    "providerId": "northwind",
+    "provider": "Northwind",
+    "category": "slots",
+    "tags": [
+      "hot",
+      "ways"
+    ],
+    "rtp": 96.4,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 52,
+    "releasedAt": "2026-06-20",
+    "playable": false
+  },
+  {
+    "id": "saints-of-odds",
+    "title": "Saints of Odds",
+    "providerId": "redlamp",
+    "provider": "Redlamp",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 96.93,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 65,
+    "releasedAt": "2026-06-16",
+    "playable": false
+  },
+  {
+    "id": "long-odds",
+    "title": "Long Odds",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 97.46,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 60,
+    "releasedAt": "2026-06-12",
+    "playable": false
+  },
+  {
+    "id": "short-deck",
+    "title": "Short Deck",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 94.59,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 91,
+    "releasedAt": "2026-06-08",
+    "playable": false
+  },
+  {
+    "id": "inland",
+    "title": "Inland",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 95.12,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 38,
+    "releasedAt": "2026-06-04",
+    "playable": false
+  },
+  {
+    "id": "ribbon",
+    "title": "Ribbon",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "slots",
+    "tags": [
+      "ways",
+      "classic"
+    ],
+    "rtp": 95.65,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 51,
+    "releasedAt": "2026-05-31",
+    "playable": false
+  },
+  {
+    "id": "half-a-moon",
+    "title": "Half a Moon",
+    "providerId": "kite",
+    "provider": "Kite & Co",
+    "category": "slots",
+    "tags": [
+      "hot",
+      "jackpot"
+    ],
+    "rtp": 96.18,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 82,
+    "releasedAt": "2026-05-27",
+    "playable": false
+  },
+  {
+    "id": "studio-apartment",
+    "title": "Studio Apartment",
+    "providerId": "sable",
+    "provider": "Sable",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 96.71,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 47,
+    "releasedAt": "2026-05-23",
+    "playable": false
+  },
+  {
+    "id": "red-pencil",
+    "title": "Red Pencil",
+    "providerId": "northwind",
+    "provider": "Northwind",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 97.24,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 42,
+    "releasedAt": "2026-05-19",
+    "playable": false
+  },
+  {
+    "id": "northline",
+    "title": "Northline",
+    "providerId": "redlamp",
+    "provider": "Redlamp",
+    "category": "slots",
+    "tags": [
+      "high-limit"
+    ],
+    "rtp": 94.37,
+    "minBet": 5,
+    "maxBet": 500,
+    "trend": 55,
+    "releasedAt": "2026-05-15",
+    "playable": false
+  },
+  {
+    "id": "kettle",
+    "title": "Kettle",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "slots",
+    "tags": [
+      "ways"
+    ],
+    "rtp": 94.9,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 68,
+    "releasedAt": "2026-05-11",
+    "playable": false
+  },
+  {
+    "id": "august-wheel",
+    "title": "August Wheel",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 95.43,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 51,
+    "releasedAt": "2026-05-07",
+    "playable": false
+  },
+  {
+    "id": "pine-tariff",
+    "title": "Pine Tariff",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 95.96,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 64,
+    "releasedAt": "2026-05-03",
+    "playable": false
+  },
+  {
+    "id": "velvet-audit",
+    "title": "Velvet Audit",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 96.49,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 59,
+    "releasedAt": "2026-04-29",
+    "playable": false
+  },
+  {
+    "id": "small-lightning",
+    "title": "Small Lightning",
+    "providerId": "kite",
+    "provider": "Kite & Co",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 97.02,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 72,
+    "releasedAt": "2026-04-25",
+    "playable": false
+  },
+  {
+    "id": "house-sparrow",
+    "title": "House Sparrow",
+    "providerId": "sable",
+    "provider": "Sable",
+    "category": "slots",
+    "tags": [
+      "ways",
+      "jackpot"
+    ],
+    "rtp": 94.15,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 37,
+    "releasedAt": "2026-04-21",
+    "playable": false
+  },
+  {
+    "id": "closed-kitchen",
+    "title": "Closed Kitchen",
+    "providerId": "northwind",
+    "provider": "Northwind",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 94.68,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 50,
+    "releasedAt": "2026-04-17",
+    "playable": false
+  },
+  {
+    "id": "april-index",
+    "title": "April Index",
+    "providerId": "redlamp",
+    "provider": "Redlamp",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 95.21,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 81,
+    "releasedAt": "2026-04-13",
+    "playable": false
+  },
+  {
+    "id": "goldfish",
+    "title": "Goldfish",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 95.74,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 46,
+    "releasedAt": "2026-04-09",
+    "playable": false
+  },
+  {
+    "id": "static-mercy",
+    "title": "Static Mercy",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 96.27,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 59,
+    "releasedAt": "2026-04-05",
+    "playable": false
+  },
+  {
+    "id": "lantern-tax",
+    "title": "Lantern Tax",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "slots",
+    "tags": [
+      "ways"
+    ],
+    "rtp": 96.8,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 54,
+    "releasedAt": "2026-04-01",
+    "playable": false
+  },
+  {
+    "id": "mild-horses",
+    "title": "Mild Horses",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 97.33,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 67,
+    "releasedAt": "2026-03-28",
+    "playable": false
+  },
+  {
+    "id": "third-rail",
+    "title": "Third Rail",
+    "providerId": "kite",
+    "provider": "Kite & Co",
+    "category": "slots",
+    "tags": [
+      "high-limit"
+    ],
+    "rtp": 94.46,
+    "minBet": 5,
+    "maxBet": 500,
+    "trend": 32,
+    "releasedAt": "2026-03-24",
+    "playable": false
+  },
+  {
+    "id": "sugar-ledger",
+    "title": "Sugar Ledger",
+    "providerId": "sable",
+    "provider": "Sable",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 94.99,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 63,
+    "releasedAt": "2026-03-20",
+    "playable": false
+  },
+  {
+    "id": "winter-stake",
+    "title": "Winter Stake",
+    "providerId": "northwind",
+    "provider": "Northwind",
+    "category": "slots",
+    "tags": [
+      "hot",
+      "jackpot"
+    ],
+    "rtp": 95.52,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 76,
+    "releasedAt": "2026-03-16",
+    "playable": false
+  },
+  {
+    "id": "opaque",
+    "title": "Opaque",
+    "providerId": "redlamp",
+    "provider": "Redlamp",
+    "category": "slots",
+    "tags": [
+      "ways"
+    ],
+    "rtp": 96.05,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 71,
+    "releasedAt": "2026-03-12",
+    "playable": false
+  },
+  {
+    "id": "kind-regards",
+    "title": "Kind Regards",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 96.58,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 36,
+    "releasedAt": "2026-03-08",
+    "playable": false
+  },
+  {
+    "id": "low-ceiling",
+    "title": "Low Ceiling",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "slots",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 97.11,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 67,
+    "releasedAt": "2026-03-04",
+    "playable": false
+  },
+  {
+    "id": "museum-hours",
+    "title": "Museum Hours",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 94.24,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 62,
+    "releasedAt": "2026-02-28",
+    "playable": false
+  },
+  {
+    "id": "salt-license",
+    "title": "Salt License",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "slots",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 94.77,
+    "minBet": 0.2,
+    "maxBet": 100,
+    "trend": 75,
+    "releasedAt": "2026-02-24",
+    "playable": false
+  },
+  {
+    "id": "the-long-table",
+    "title": "The Long Table",
+    "providerId": "kite",
+    "provider": "Kite & Co",
+    "category": "table",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 97.9,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 58,
+    "releasedAt": "2026-02-20",
+    "playable": false
+  },
+  {
+    "id": "felt-sunday",
+    "title": "Felt Sunday",
+    "providerId": "sable",
+    "provider": "Sable",
+    "category": "table",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 98.07,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 71,
+    "releasedAt": "2026-02-16",
+    "playable": false
+  },
+  {
+    "id": "slow-blackjack",
+    "title": "Slow Blackjack",
+    "providerId": "northwind",
+    "provider": "Northwind",
+    "category": "table",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 98.24,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 66,
+    "releasedAt": "2026-02-12",
+    "playable": false
+  },
+  {
+    "id": "pair-of-gloves",
+    "title": "Pair of Gloves",
+    "providerId": "redlamp",
+    "provider": "Redlamp",
+    "category": "table",
+    "tags": [
+      "jackpot"
+    ],
+    "rtp": 98.41,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 31,
+    "releasedAt": "2026-02-08",
+    "playable": false
+  },
+  {
+    "id": "bankers-hour",
+    "title": "Bankers Hour",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "table",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 98.58,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 44,
+    "releasedAt": "2026-02-04",
+    "playable": false
+  },
+  {
+    "id": "three-seats",
+    "title": "Three Seats",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "table",
+    "tags": [
+      "high-limit"
+    ],
+    "rtp": 98.75,
+    "minBet": 5,
+    "maxBet": 500,
+    "trend": 57,
+    "releasedAt": "2026-01-31",
+    "playable": false
+  },
+  {
+    "id": "no-side-bets",
+    "title": "No Side Bets",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "table",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 97.32,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 88,
+    "releasedAt": "2026-01-27",
+    "playable": false
+  },
+  {
+    "id": "cedar-room",
+    "title": "Cedar Room",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "table",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 97.49,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 35,
+    "releasedAt": "2026-01-23",
+    "playable": false
+  },
+  {
+    "id": "even-money",
+    "title": "Even Money",
+    "providerId": "kite",
+    "provider": "Kite & Co",
+    "category": "table",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 97.66,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 48,
+    "releasedAt": "2026-01-19",
+    "playable": false
+  },
+  {
+    "id": "the-counts-nap",
+    "title": "The Counts Nap",
+    "providerId": "sable",
+    "provider": "Sable",
+    "category": "table",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 97.83,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 79,
+    "releasedAt": "2026-01-15",
+    "playable": false
+  },
+  {
+    "id": "push-or-leave",
+    "title": "Push or Leave",
+    "providerId": "northwind",
+    "provider": "Northwind",
+    "category": "table",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 98,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 74,
+    "releasedAt": "2026-01-11",
+    "playable": false
+  },
+  {
+    "id": "split-decision",
+    "title": "Split Decision",
+    "providerId": "redlamp",
+    "provider": "Redlamp",
+    "category": "table",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 98.17,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 57,
+    "releasedAt": "2026-01-07",
+    "playable": false
+  },
+  {
+    "id": "soft-seventeen",
+    "title": "Soft Seventeen",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "table",
+    "tags": [
+      "hot",
+      "jackpot"
+    ],
+    "rtp": 98.34,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 70,
+    "releasedAt": "2026-01-03",
+    "playable": false
+  },
+  {
+    "id": "green-lamp",
+    "title": "Green Lamp",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "table",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 98.51,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 83,
+    "releasedAt": "2025-12-30",
+    "playable": false
+  },
+  {
+    "id": "late-seating",
+    "title": "Late Seating",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "table",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 98.68,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 30,
+    "releasedAt": "2025-12-26",
+    "playable": false
+  },
+  {
+    "id": "four-colors",
+    "title": "Four Colors",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "table",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 98.85,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 43,
+    "releasedAt": "2025-12-22",
+    "playable": false
+  },
+  {
+    "id": "quiet-pit",
+    "title": "Quiet Pit",
+    "providerId": "kite",
+    "provider": "Kite & Co",
+    "category": "table",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 97.42,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 56,
+    "releasedAt": "2025-12-18",
+    "playable": false
+  },
+  {
+    "id": "full-shoe",
+    "title": "Full Shoe",
+    "providerId": "sable",
+    "provider": "Sable",
+    "category": "table",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 97.59,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 87,
+    "releasedAt": "2025-12-14",
+    "playable": false
+  },
+  {
+    "id": "dealers-thumb",
+    "title": "Dealers Thumb",
+    "providerId": "northwind",
+    "provider": "Northwind",
+    "category": "table",
+    "tags": [
+      "hot",
+      "high-limit"
+    ],
+    "rtp": 97.76,
+    "minBet": 5,
+    "maxBet": 500,
+    "trend": 52,
+    "releasedAt": "2025-12-10",
+    "playable": false
+  },
+  {
+    "id": "last-box",
+    "title": "Last Box",
+    "providerId": "redlamp",
+    "provider": "Redlamp",
+    "category": "table",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 97.93,
+    "minBet": 0.2,
+    "maxBet": 200,
+    "trend": 65,
+    "releasedAt": "2025-12-06",
+    "playable": false
+  },
+  {
+    "id": "low-tide-roulette",
+    "title": "Low Tide Roulette",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "live",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 97.6,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 60,
+    "releasedAt": "2025-12-02",
+    "playable": false
+  },
+  {
+    "id": "camera-three",
+    "title": "Camera Three",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "live",
+    "tags": [
+      "jackpot"
+    ],
+    "rtp": 97.79,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 73,
+    "releasedAt": "2025-11-28",
+    "playable": false
+  },
+  {
+    "id": "evening-spin",
+    "title": "Evening Spin",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "live",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 97.98,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 38,
+    "releasedAt": "2025-11-24",
+    "playable": false
+  },
+  {
+    "id": "the-pit-window",
+    "title": "The Pit Window",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "live",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 98.17,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 51,
+    "releasedAt": "2025-11-20",
+    "playable": false
+  },
+  {
+    "id": "live-shoe",
+    "title": "Live Shoe",
+    "providerId": "kite",
+    "provider": "Kite & Co",
+    "category": "live",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 98.36,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 82,
+    "releasedAt": "2025-11-16",
+    "playable": false
+  },
+  {
+    "id": "red-camera",
+    "title": "Red Camera",
+    "providerId": "sable",
+    "provider": "Sable",
+    "category": "live",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 98.55,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 47,
+    "releasedAt": "2025-11-12",
+    "playable": false
+  },
+  {
+    "id": "studio-b",
+    "title": "Studio B",
+    "providerId": "northwind",
+    "provider": "Northwind",
+    "category": "live",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 96.94,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 42,
+    "releasedAt": "2025-11-08",
+    "playable": false
+  },
+  {
+    "id": "hosts-choice",
+    "title": "Hosts Choice",
+    "providerId": "redlamp",
+    "provider": "Redlamp",
+    "category": "live",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 97.13,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 73,
+    "releasedAt": "2025-11-04",
+    "playable": false
+  },
+  {
+    "id": "midnight-wheel",
+    "title": "Midnight Wheel",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "live",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 97.32,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 68,
+    "releasedAt": "2025-10-31",
+    "playable": false
+  },
+  {
+    "id": "plain-roulette",
+    "title": "Plain Roulette",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "live",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 97.51,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 51,
+    "releasedAt": "2025-10-27",
+    "playable": false
+  },
+  {
+    "id": "salon-feed",
+    "title": "Salon Feed",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "live",
+    "tags": [
+      "hot",
+      "jackpot"
+    ],
+    "rtp": 97.7,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 64,
+    "releasedAt": "2025-10-23",
+    "playable": false
+  },
+  {
+    "id": "table-nine",
+    "title": "Table Nine",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "live",
+    "tags": [
+      "classic",
+      "high-limit"
+    ],
+    "rtp": 97.89,
+    "minBet": 5,
+    "maxBet": 500,
+    "trend": 59,
+    "releasedAt": "2025-10-19",
+    "playable": false
+  },
+  {
+    "id": "open-mic",
+    "title": "Open Mic",
+    "providerId": "kite",
+    "provider": "Kite & Co",
+    "category": "live",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 98.08,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 72,
+    "releasedAt": "2025-10-15",
+    "playable": false
+  },
+  {
+    "id": "croupier-watch",
+    "title": "Croupier Watch",
+    "providerId": "sable",
+    "provider": "Sable",
+    "category": "live",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 98.27,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 55,
+    "releasedAt": "2025-10-11",
+    "playable": false
+  },
+  {
+    "id": "pit-lane",
+    "title": "Pit Lane",
+    "providerId": "northwind",
+    "provider": "Northwind",
+    "category": "live",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 98.46,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 50,
+    "releasedAt": "2025-10-07",
+    "playable": false
+  },
+  {
+    "id": "warm-felt",
+    "title": "Warm Felt",
+    "providerId": "redlamp",
+    "provider": "Redlamp",
+    "category": "live",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 96.85,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 81,
+    "releasedAt": "2025-10-03",
+    "playable": false
+  },
+  {
+    "id": "second-camera",
+    "title": "Second Camera",
+    "providerId": "calder",
+    "provider": "Calder",
+    "category": "live",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 97.04,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 46,
+    "releasedAt": "2025-09-29",
+    "playable": false
+  },
+  {
+    "id": "live-holdem",
+    "title": "Live Holdem",
+    "providerId": "oster",
+    "provider": "Oster",
+    "category": "live",
+    "tags": [
+      "hot"
+    ],
+    "rtp": 97.23,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 59,
+    "releasedAt": "2025-09-25",
+    "playable": false
+  },
+  {
+    "id": "night-pit",
+    "title": "Night Pit",
+    "providerId": "veldt",
+    "provider": "Veldt",
+    "category": "live",
+    "tags": [
+      "classic"
+    ],
+    "rtp": 97.42,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 54,
+    "releasedAt": "2025-09-21",
+    "playable": false
+  },
+  {
+    "id": "broadcast-shoe",
+    "title": "Broadcast Shoe",
+    "providerId": "marlowe",
+    "provider": "Marlowe",
+    "category": "live",
+    "tags": [
+      "jackpot",
+      "classic"
+    ],
+    "rtp": 97.61,
+    "minBet": 1,
+    "maxBet": 100,
+    "trend": 67,
+    "releasedAt": "2025-09-17",
+    "playable": false
+  }
+]
